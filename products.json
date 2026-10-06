@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "whatsapp": "201001234567",
+    "topBar": "شحن مجاني للطلبات فوق 999 جنيه",
+    "heroTitle": "جملك في احتشامك",
+    "heroSub": "اكتشفي مجموعة راقية من ملابس المحجبات صممت لأجلكِ بكل حب واهتمام",
+    "heroImg": "",
+    "phone": "0100 123 4567",
+    "email": "info@islami.com",
+    "address": "القاهرة، مصر",
+    "about": "إسلامي متجر لملابس المحجبات يجمع بين الأناقة والاحتشام. نختار الخامات والتفاصيل بعناية، ونوصل طلبك لأي محافظة في مصر."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "عباية كريب ملكي",
+      "price": 950,
+      "old": 0,
+      "cat": "abayas",
+      "sizes": "S,M,L,XL",
+      "img": "",
+      "isNew": false,
+      "best": true,
+      "off": false
+    },
+    {
+      "id": 2,
+      "name": "عباية مفتوحة لينن",
+      "price": 880,
+      "old": 1100,
+      "cat": "abayas",
+      "sizes": "S,M,L,XL",
+      "img": "",
+      "isNew": false,
+      "best": true,
+      "off": false
+    },
+    {
+      "id": 3,
+      "name": "عباية ندى بشت",
+      "price": 1050,
+      "old": 0,
+      "cat": "abayas",
+      "sizes": "S,M,L,XL",
+      "img": "",
+      "isNew": false,
+      "best": true,
+      "off": false
+    },
+    {
+      "id": 4,
+      "name": "عباية ندى بشت",
+      "price": 1200,
+      "old": 0,
+      "cat": "abayas",
+      "sizes": "S,M,L,XL",
+      "img": "",
+      "isNew": true,
+      "best": true,
+      "off": false
+    },
+    {
+      "id": 5,
+      "name": "طقم كتان شيلر",
+      "price": 1150,
+      "old": 0,
+      "cat": "sets",
+      "sizes": "S,M,L,XL",
+      "img": "",
+      "isNew": false,
+      "best": true,
+      "off": false
+    }
+  ]
+}
